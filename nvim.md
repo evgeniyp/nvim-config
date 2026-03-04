@@ -1,3 +1,6 @@
+`:Tutor` - read the tutor
+`:Tutor vim-01-beginner` - read the part 2 of the tutor
+
 `u` - undo, `U` - undo whole line, `C-r` = redo
 
 `hjkl` - cursor movement
